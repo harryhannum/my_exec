@@ -1,16 +1,17 @@
 {
-    "manifest_format_version": 1,
+    "manifest_format_version": "1.0",
+    
     "name": "My Executable",
-    "version": "1.1",
+    "version": "1.2.0",
 
     "dependencies": [
         {
             "name": "Lib A",
-            "version": "1.7"
+            "version": "1.8.0"
         },
         {
             "name": "Lib B",
-            "version": "1.4"
+            "version": "1.5.0"
         }
     ],
 

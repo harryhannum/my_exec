@@ -1,13 +1,13 @@
 {
-    "manifest_format_version": 1,
+    "manifest_format_version": "1.0",
 
     "name": "Lib B",
-    "version": "1.4",
+    "version": "1.5.0",
 
     "dependencies": [
         {
             "name": "Core Library",
-            "version": "2.1"
+            "version": "2.2.0"
         }
     ]
 }
